@@ -1,0 +1,54 @@
+{
+    "experience": [
+        {
+            "company": "Helium Pager",
+            "logo": "/static/img/logo-img/experience-logos/helium-pager.png",
+            "title": "Lead UX/UI Designer",
+            "startDate": "December 2023",
+            "endDate": "present",
+            "achievements": [
+                "Devise marketing strategies and collaborate with four software engineers in preparation for official product launch",
+                "Create a design system with 40 reusable front-end components",
+                "Spearhead the development of interactive prototypes for both web and mobile versions of Helium Pager’s app",
+                "Align with stakeholders to communicate design concepts that meet B2C objectives with the explicit goal of generating at least $10,000 per month in starting revenue"
+            ]
+        },
+        {
+            "company": "LikeMind Discovery LLC",
+            "logo": "/static/img/logo-img/experience-logos/likemind.png",
+            "title": "Digital Engagement Writer",
+            "startDate": "June 2022",
+            "endDate": "December 2023",
+            "achievements": [
+                "Contributed to the LikeMind app's database, improving its user-matching algorithm via a 78% data quantity increase",
+                "Promoted LikeMind's features and capabilities, increasing platform awareness among potential users",
+                "Achieved recognition for contributions, featured twice in LikeMind's monthly newsletter and social media"
+            ]
+        },
+        {
+            "company": "Ivan Allen Liberal Arts College, Georgia Tech",
+            "logo": "/static/img/logo-img/experience-logos/ivan-allen-lac.jpg",
+            "title": "Graduate Research Assistant",
+            "startDate": "May 2019",
+            "endDate": "August 2019",
+            "achievements": [
+                "Partnered with Georgia Tech faculty in porting a 48-page interactive narrative to the Twine authoring platform",
+                "Optimized code in HTML and SugarCube, enhancing interactivity by about 90% with hyperlinks and video footage",
+                "Conducted thorough testing and debugging to maintain high standards of application performance and reliability"
+            ]
+        },
+        {
+            "company": "Georgia Tech Professional Education",
+            "logo": "/static/img/logo-img/experience-logos/gtpe.jpg",
+            "title": "Communications Assistant",
+            "startDate": "November 2018",
+            "endDate": "May 2019",
+            "achievements": [
+                "Copywrote and edited PR materials, boosting GTPE's online M.S. program enrollment by 39% in 2019 (12,000 new enrollees)",
+                "Collaborated with three communications officers on four blog posts, approved and published to the GTPE website",
+                "Composed multiple email subject lines for A/B testing, leading to the enhancement of email marketing campaigns",
+                "Implemented SEO and keyword integration for proper content optimization to drive organic traffic to the GTPE website"
+            ]
+        }
+    ]
+}

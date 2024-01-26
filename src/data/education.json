@@ -1,0 +1,36 @@
+{
+    "education": [
+        {
+            "school": "Hackbright Academy",
+            "logo": "/static/img/logo-img/education-logos/hackbright.png",
+            "startDate": "March 2023",
+            "endDate": "June 2023",
+            "degree": "Certificate",
+            "field": "Software Engineering"
+        },
+        {
+            "school": "Savannah College of Art & Design",
+            "logo": "/static/img/logo-img/education-logos/scad.jpg",
+            "startDate": "September 2020",
+            "endDate": "March 2023",
+            "degree": "M.A.",
+            "field": "Film Theory & History"
+        },
+        {
+            "school": "Georgia Institute of Technology",
+            "logo": "/static/img/logo-img/education-logos/georgia-tech.svg",
+            "startDate": "August 2018",
+            "endDate": "May 2020",
+            "degree": "M.S.",
+            "field": "Digital Media, specialization in UX Design"
+        },
+        {
+            "school": "Wesleyan College",
+            "logo": "/static/img/logo-img/education-logos/wesleyan.jpg",
+            "startDate": "August 2013",
+            "endDate": "December 2017",
+            "degree": "B.A.",
+            "field": "English Literature"
+        }
+    ]
+}

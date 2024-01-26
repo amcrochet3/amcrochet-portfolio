@@ -1,0 +1,57 @@
+{
+    "projects": [
+        {
+            "name": "Architexture",
+            "img": "/static/img/project-img/architexture.png",
+            "techStack": [
+                "Python",
+                "Flask",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Jinja",
+                "Bootstrap",
+                "SQL",
+                "PostgreSQL",
+                "AJAX",
+                "JSON",
+                "Werkzeug",
+                "EXIF"
+            ],
+            "description": "A Flask app leveraging the Google Geocoding API to present a user-curated database of global architectural structures",
+            "github": "https://github.com/amcrochet3/architexture.git",
+            "demo": "https://youtu.be/EXBxASj2R_4"
+        },
+        {
+            "name": "AmBeyoncé",
+            "img": "/static/img/project-img/ambeyonce.png",
+            "techStack": [
+                "Python",
+                "Django",
+                "jQuery",
+                "HTML",
+                "CSS",
+                "Jinja",
+                "Bootstrap",
+                "AJAX",
+                "JSON"
+            ],
+            "description": "A Django web app that dynamically recommends music tracks based on a user’s local weather conditions",
+            "github": "https://github.com/amcrochet3/ambeyonce.git"
+        },
+        {
+            "name": "Florabelle",
+            "img": "/static/img/project-img/florabelle.png",
+            "techStack": [
+                "React.js",
+                "Node.js",
+                "HTML",
+                "CSS",
+                "Bootstrap"
+            ],
+            "description": "A mock eCommerce app for an eco-conscious luxury fashion brand built with React.js",
+            "github": "https://github.com/amcrochet3/florabelle.git",
+            "website": "https://amcrochet3.github.io/florabelle-deployed/"
+        }
+    ]
+}

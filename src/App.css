@@ -32,7 +32,94 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+section {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.navbar {
+  background-color: #ffebf9 !important;
+}
+
+.navbar-brand {
+  margin-right: 2rem;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+body {
+  background-color: #ffebf9;
+}
+
+a,
+p,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+a:hover {
+  color: #f23d76 !important;
+}
+
+.navbar-brand,
+h1,
+h2 {
+  font-family: "Abril Display", serif;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  color: #f23d76 !important;
+}
+
+h1 {
+  font-weight: 700;
+  color: #f23d76;
+}
+
+h2 {
+  color: #f23d76;
+}
+
+h2,
+h6 {
+  font-weight: 500;
+}
+
+h3,
+h4,
+h5 {
+  font-weight: 800;
+}
+
+.intro {
+  font-size: 20px;
+}
+
+#skills .card-header,
+#experience .card-header {
+  background-color: #fffafe !important;
+}
+
+.date-italic {
+  font-style: italic;
+}
+
+.footer-icon {
+  font-size: 2rem;
+}
+
+footer .nav-link {
+  margin-left: 1rem;
 }

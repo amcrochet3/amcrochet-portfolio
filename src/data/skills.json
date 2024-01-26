@@ -1,0 +1,68 @@
+{
+    "skills": {
+        "Programming Languages": [
+            {
+                "skill": "Python",
+                "logo": "/static/img/logo-img/techstack-logos/python-original.svg"
+            },
+            {
+                "skill": "JavaScript",
+                "logo": "/static/img/logo-img/techstack-logos/javascript-original.svg"
+            },
+            {
+                "skill": "Golang",
+                "logo": "/static/img/logo-img/techstack-logos/go-original.svg"
+            }
+        ],
+        "Front-End Development": [
+            {
+                "skill": "React.js",
+                "logo": "/static/img/logo-img/techstack-logos/react-original.svg"
+            },
+            {
+                "skill": "jQuery",
+                "logo": "/static/img/logo-img/techstack-logos/jquery-original.svg"
+            },
+            {
+                "skill": "HTML",
+                "logo": "/static/img/logo-img/techstack-logos/html5-original.svg"
+            },
+            {
+                "skill": "CSS",
+                "logo": "/static/img/logo-img/techstack-logos/css3-original.svg"
+            },
+            {
+                "skill": "Bootstrap",
+                "logo": "/static/img/logo-img/techstack-logos/bootstrap-original.svg"
+            }
+        ],
+        "Back-End Development": [
+            {
+                "skill": "Flask",
+                "logo": "/static/img/logo-img/techstack-logos/flask-original.svg"
+            },
+            {
+                "skill": "Django",
+                "logo": "/static/img/logo-img/techstack-logos/django-plain.svg"
+            },
+            {
+                "skill": "Node.js",
+                "logo": "/static/img/logo-img/techstack-logos/nodejs-original.svg"
+            },
+            {
+                "skill": "SQLAlchemy",
+                "logo": "/static/img/logo-img/techstack-logos/sqlalchemy-original.svg"
+            }
+        ],
+        "Database & Data Formats": [
+            {
+                "skill": "MySQL",
+                "logo": "/static/img/logo-img/techstack-logos/mysql-original.svg"
+            },
+            {
+                "skill": "PostgreSQL",
+                "logo": "/static/img/logo-img/techstack-logos/postgresql-original.svg"
+            }
+        ]
+    }
+}
