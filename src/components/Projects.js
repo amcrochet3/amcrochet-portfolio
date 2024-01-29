@@ -8,7 +8,7 @@ const Projects = () => (
             {data.projects.map((project, index) => (
                 <div key={index} className="col-lg-4 text-left mb-4">
                     <div className="card h-100">
-                        {project.img && <img src={project.img} className="card-img-top" alt={project.name} />}
+                        {project.img && <img src={process.env.PUBLIC_URL + project.img} className="card-img-top" alt={project.name} />}
                         <div className="card-body">
                             <h3 className="card-title">{project.name}</h3>
                             <p className="card-text">{project.description}</p>
