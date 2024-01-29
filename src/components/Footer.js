@@ -8,7 +8,7 @@ const Footer = () => (
                     <a href="https://github.com/amcrochet3" className="nav-item nav-link" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-github footer-icon"></i>
                     </a>
-                    <a href="https://linkedin.com/in/allison-crochet" className="nav-item nav-link" target="_blank" rel="noopener noreferrer">
+                    <a href="https://linkedin.com/in/allison-crochet/" className="nav-item nav-link" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-linkedin-in footer-icon"></i>
                     </a>
                 </div>
